@@ -57,4 +57,4 @@ The frontend will run on http://localhost:5173
 
 
 ### Screenshots
-
+![image alt](https://github.com/Ashish-1604/task-management-app/blob/bc322cf8ff7d38a59ea466ba5962cc68f4b8c891/1.png)
